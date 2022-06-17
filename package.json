@@ -16,8 +16,7 @@
   ],
   "types": "dist/index.d.ts",
   "scripts": {
-    "rollup": "rollup -c",
-    "postinstall": "npm run rollup"
+    "rollup": "rollup -c"
   },
   "keywords": [
     "react",
