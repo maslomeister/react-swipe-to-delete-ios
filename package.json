@@ -16,7 +16,8 @@
   ],
   "types": "dist/index.d.ts",
   "scripts": {
-    "rollup": "rollup -c"
+    "rollup": "rollup -c",
+    "prepare": "npm run rollup"
   },
   "keywords": [
     "react",
