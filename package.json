@@ -16,7 +16,7 @@
   ],
   "types": "dist/index.d.ts",
   "scripts": {
-    "rollup": "rollup -c",
+    "rollup": "npm i && rollup -c",
     "prepare": "npm run rollup"
   },
   "keywords": [
